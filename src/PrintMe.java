@@ -11,7 +11,7 @@ public class PrintMe {
 		System.out.println("Enter the query:");
 		PrintMe pm = new PrintMe();
 		pm.createConnector();
-		System.out.println("Bye");
+		System.out.println("Bye For Now");
 	}
 
 	private void createConnector() {
